@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 Section: welcome
 Language: French Français
@@ -7,7 +7,7 @@ Language: French Français
 $translations = array(
     'h1' => 'Bienvenue sur db4free.net',
 
-    'p1a' => 'db4free.net fournit un service de tests des dernières versions de <a href="http://www.mysql.com/">MySQL Server</a>, parfois même en développement. Vous pouvez facilement <a href="/signup.php">créer un compte gratuit</a> et tester vos applications, pour vous assurer par exemple qu\'elles fonctionneront encore après un update de MySQL. db4free.net est également un bon outil pédagogique et pour vous familiariser avec les nouvelles fonctionnalités',
+    'p1a' => 'db4free.net est une Plateform qui fournit un service de tests des dernières versions de <a href="http://www.mysql.com/">MySQL Server</a>, parfois même en développement. Vous pouvez facilement <a href="/signup.php">créer un compte gratuit</a> et tester vos applications, pour vous assurer par exemple qu\'elles fonctionneront encore après un update de MySQL. db4free.net est également un bon outil pédagogique et pour vous familiariser avec les nouvelles fonctionnalités',
 
     'p1b' => 'Le but de db4free.net est de fournir soit la dernière version de production, soit la version en développement. Le serveur MySQL de db4free.net est mis à jour rapidement après la sortie d\'une nouvelle version, généralement le même jour ou dans les jours suivants.',
 
